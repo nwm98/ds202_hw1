@@ -1,0 +1,17 @@
+---
+title: "partner.Rmd"
+author: "Mike Brown"
+date: "2/4/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##Information
+**Name**: Mike Brown
+**Username**: jbelush35
+**What did the owner do on his most recent commit?**: Nathan committed hw1.Rmd. ID: 18d124e
+**Knitting Partner's Rmd**: successful
+**Tips**: make the functions easier to find on github.
